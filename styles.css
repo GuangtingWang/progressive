@@ -1,0 +1,50 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.article {
+    width:800px;
+    margin:50px auto;
+}
+.article:first-child {
+    margin-top: 0;
+    padding-top: 30px;
+}
+
+main {
+    background:linear-gradient(to right, #333, #999, #999 75%, #333 );
+}
+
+header {
+    background:linear-gradient(217deg,rosybrown,lightblue);
+}
+
+.logo {
+    padding:40px;
+    text-align: center;
+    color:black;
+    font-family: 'Romanesco', cursive;
+    letter-spacing: 10px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color:saddlebrown;
+}
+
+select {
+    margin:0;
+    padding: 0;
+}
+
+header {
+    height:200px;
+}
+img {
+    margin:5px 0;
+    height:480px;
+    width:800px;
+}
